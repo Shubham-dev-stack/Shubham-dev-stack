@@ -1,4 +1,4 @@
-# Hi there! I'm [Tera Naam] 👋
+# Hi there! I'm shubham 👋
 
 🎓 **1st Year Engineering Student** | Aspiring Data Scientist
 
