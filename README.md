@@ -61,8 +61,7 @@ Currently on a learning journey — exploring how data can solve real-world prob
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([www.linkedin.com/in/](https://linkedin.com/in/shubham-kumar-286821394)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shubham-kumar-286821394)
 ---
 
 *"The quieter you become, the more you are able to hear."* 🔐🌱
