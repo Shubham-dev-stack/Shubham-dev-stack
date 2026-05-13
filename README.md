@@ -1,24 +1,95 @@
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Shubham+Kumar;Cybersecurity+Learner;Python+%26+C%2FC%2B%2B+Developer;Ethical+Hacker;AI+Tools+Explorer" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubham-dev-stack) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamcyberr@gmail.com) 
+<h3 align="center">
+  Welcome to my digital terminal 👨‍💻
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shubham-dev-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shubham-dev-stack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shubham-dev-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shubham-dev-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shubham-dev-stack&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Identity-Shubham%20Kumar-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1b27" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shubham-dev-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🕵️‍♂️ About Me
+```console
+root@shubham:~# whoami
+```
+I am a passionate **Cybersecurity Learner** and **Developer** deeply interested in system security, Linux, and networking. I enjoy exploring the intersection of low-level programming (C/C++) and automation (Python). Always eager to learn about modern tech workflows and AI tools.
+
+- 🔭 Currently focused on **Cybersecurity & Ethical Hacking fundamentals**
+- 🌱 Deep diving into **Linux system internals & Networking**
+- 🐍 Building **Python automation scripts for security**
+- ⚙️ Exploring **C/C++ low-level programming concepts**
+
+---
+
+### 💻 Tech Stack & Skills
+
+#### Programming
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FF00" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00FF00" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+#### Cybersecurity & Networking
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=00FF00" /> <img src="https://img.shields.io/badge/Networking-TCP/IP_&_DNS-00FF00?style=for-the-badge&logo=cisco&logoColor=black" /> <img src="https://img.shields.io/badge/OSINT-Open_Source_Intelligence-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/Web_Security-XSS_&_SQLi-00FF00?style=for-the-badge&logo=owasp&logoColor=black" /> <img src="https://img.shields.io/badge/Ethical_Hacking-Basics-00FF00?style=for-the-badge" />
+
+#### Tools & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FF00" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF00" /> <img src="https://img.shields.io/badge/AI_Tools-Automation-00FF00?style=for-the-badge&logo=openai&logoColor=black" /> <img src="https://img.shields.io/badge/DevOps-Awareness-00FF00?style=for-the-badge&logo=docker&logoColor=black" />
+
+---
+
+### 🧪 Cybersecurity Lab (Learning Environment)
+*Educational & Simulated Projects*
+
+- 🔐 **Password Strength Checker**: Built with Python
+- 📡 **Port Scanner**: Educational tool to understand network mapping
+- 🕸️ **Network Analyzer Basics**: Packet inspection concepts
+- 🔏 **Encryption/Decryption Tools**: Basic cryptographic concepts in Python/C++
+
+---
+
+### 🎯 Goals & Objectives
+```console
+root@shubham:~# cat goals.txt
+```
+- [x] Master basic programming and scripting.
+- [ ] Become a professional Cybersecurity Engineer / Information Security Expert.
+- [ ] Build and deploy real-world security tools.
+- [ ] Master system-level programming and advanced security concepts.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-dev-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="Shubham's GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-dev-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00" alt="Shubham's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-dev-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" alt="Shubham's Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <i>Made with ❤️ by Shubham Kumar</i>
+</p>
