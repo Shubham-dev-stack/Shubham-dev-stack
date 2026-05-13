@@ -1,95 +1,168 @@
-<!-- Header -->
+<!-- Header Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Shubham+Kumar;Cybersecurity+Learner;Python+%26+C%2FC%2B%2B+Developer;Ethical+Hacker;AI+Tools+Explorer" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=%24+whoami+%3E+Shubham+Kumar;%F0%9F%94%90+Cybersecurity+Learner+%7C+%F0%9F%90%8D+Python+Dev;%F0%9F%92%BB+Breaking+things+to+understand+them...;%F0%9F%8C%90+Ethical+Hacker+in+Training...;%24+sudo+rm+-rf+ignorance%2F)](https://git.io/typing-svg)
+
 </div>
-
-<h3 align="center">
-  Welcome to my digital terminal 👨‍💻
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Identity-Shubham%20Kumar-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1b27" />
-</p>
 
 ---
 
-### 🕵️‍♂️ About Me
-```console
-root@shubham:~# whoami
+<!-- Terminal Intro Card -->
+```bash
+┌──────────────────────────────────────────────────────┐
+│                    [ SYSTEM BOOT ]                   │
+├──────────────────────────────────────────────────────┤
+│  $ whoami                                            │
+│  > Shubham Kumar                                     │
+│                                                      │
+│  $ cat skills.txt                                    │
+│  > Cybersecurity Fundamentals                        │
+│  > Python Automation & Scripting                     │
+│  > C / C++ System-Level Programming                  │
+│  > Linux Terminal | Networking (TCP/IP, DNS, HTTP)   │
+│  > Ethical Hacking Basics | OSINT                    │
+│  > Git & GitHub | AI-Assisted Dev                    │
+│                                                      │
+│  $ cat status.txt                                    │
+│  > [■■■■■■■░░░] 70% Unlocked                        │
+│  > Learning by breaking. Building by failing.        │
+│                                                      │
+│  $ ./mission.sh                                      │
+│  > Secure the web. One script at a time.             │
+└──────────────────────────────────────────────────────┘
 ```
-I am a passionate **Cybersecurity Learner** and **Developer** deeply interested in system security, Linux, and networking. I enjoy exploring the intersection of low-level programming (C/C++) and automation (Python). Always eager to learn about modern tech workflows and AI tools.
-
-- 🔭 Currently focused on **Cybersecurity & Ethical Hacking fundamentals**
-- 🌱 Deep diving into **Linux system internals & Networking**
-- 🐍 Building **Python automation scripts for security**
-- ⚙️ Exploring **C/C++ low-level programming concepts**
 
 ---
 
-### 💻 Tech Stack & Skills
+<!-- Badges -->
+<div align="center">
 
-#### Programming
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FF00" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00FF00" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+![OS](https://img.shields.io/badge/OS-Windows%2011%20%7C%20Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=000000&labelColor=00FF41)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-informational?style=for-the-badge&logo=hackthebox&logoColor=white&color=000000&labelColor=00FF41)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge&color=000000&labelColor=00FF41)
+![Location](https://img.shields.io/badge/Location-India-informational?style=for-the-badge&logo=googlemaps&logoColor=white&color=000000&labelColor=00FF41)
 
-#### Cybersecurity & Networking
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=00FF00" /> <img src="https://img.shields.io/badge/Networking-TCP/IP_&_DNS-00FF00?style=for-the-badge&logo=cisco&logoColor=black" /> <img src="https://img.shields.io/badge/OSINT-Open_Source_Intelligence-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/Web_Security-XSS_&_SQLi-00FF00?style=for-the-badge&logo=owasp&logoColor=black" /> <img src="https://img.shields.io/badge/Ethical_Hacking-Basics-00FF00?style=for-the-badge" />
-
-#### Tools & DevOps
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FF00" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF00" /> <img src="https://img.shields.io/badge/AI_Tools-Automation-00FF00?style=for-the-badge&logo=openai&logoColor=black" /> <img src="https://img.shields.io/badge/DevOps-Awareness-00FF00?style=for-the-badge&logo=docker&logoColor=black" />
-
----
-
-### 🧪 Cybersecurity Lab (Learning Environment)
-*Educational & Simulated Projects*
-
-- 🔐 **Password Strength Checker**: Built with Python
-- 📡 **Port Scanner**: Educational tool to understand network mapping
-- 🕸️ **Network Analyzer Basics**: Packet inspection concepts
-- 🔏 **Encryption/Decryption Tools**: Basic cryptographic concepts in Python/C++
+</div>
 
 ---
 
-### 🎯 Goals & Objectives
-```console
-root@shubham:~# cat goals.txt
+## 🖥️ Tools & Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
+
+</div>
+
+---
+
+## 🎯 Mission Log — Current Objectives
+
+```python
+class ShubhamKumar:
+    def __init__(self):
+        self.name        = "Shubham Kumar"
+        self.base        = "India 🇮🇳"
+        self.languages   = ["Python", "C", "C++", "Bash"]
+        self.focus       = ["Cybersecurity", "Ethical Hacking", "Automation"]
+        self.learning    = ["DSA", "Penetration Testing", "Web Security", "OSINT"]
+        self.open_to     = ["Collaborations", "Open Source", "CTF Teams"]
+        self.motto       = "sudo make me a hacker 🔐"
 ```
-- [x] Master basic programming and scripting.
-- [ ] Become a professional Cybersecurity Engineer / Information Security Expert.
-- [ ] Build and deploy real-world security tools.
-- [ ] Master system-level programming and advanced security concepts.
 
 ---
 
-### 📊 GitHub Stats
+## 📡 Active Recon — What I'm Learning
+
+```
+[MISSION BOARD]
+
+ [✔] Python for Automation & Scripting
+ [✔] C & C++ — System-Level Programming
+ [✔] Linux Terminal — Daily Driver
+ [✔] Git & GitHub — Version Control
+ [✔] TCP/IP, DNS, HTTP/HTTPS — Networking Basics
+ [▶] Ethical Hacking Fundamentals         ████████░░ 80%
+ [▶] OSINT Techniques                     ██████░░░░ 60%
+ [▶] Web Security Basics                  █████░░░░░ 50%
+ [▶] Penetration Testing (Educational)    ████░░░░░░ 40%
+ [▶] DSA & Problem Solving                ███░░░░░░░ 30%
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-dev-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="Shubham's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shubham-dev-stack&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-dev-stack&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" height="165"/>
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-dev-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00" alt="Shubham's GitHub Streak" />
-</div>
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shubham-dev-stack&theme=terminal&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00AA29&currStreakNum=00FF41&sideNums=00FF41)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-dev-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" alt="Shubham's Top Languages" />
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shubham-dev-stack/Shubham-dev-stack/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shubham-dev-stack/Shubham-dev-stack/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Shubham-dev-stack/Shubham-dev-stack/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
-<p align="center">
-  <i>Made with ❤️ by Shubham Kumar</i>
-</p>
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/shubham-dev-stack)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Shubham-dev-stack)
+
+```
+📬 Open to:
+  → Cybersecurity collaborations
+  → CTF team invites
+  → Open source contributions
+  → Python / automation projects
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║  "The quieter you become, the more you can hear" ║
+║                          — Kali Linux            ║
+║                                                  ║
+║         $ sudo apt-get install knowledge         ║
+║         Reading package lists... Done ✔          ║
+╚══════════════════════════════════════════════════╝
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shubham-dev-stack&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
