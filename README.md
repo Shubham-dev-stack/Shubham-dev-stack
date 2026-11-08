@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shubham-dev-stack?tab=followers"><img src="https://img.shields.io/github/followers/Shubham-dev-stack?style=for-the-badge&logo=github&label=Followers&color=38BDF8&labelColor=161B22" alt="Followers" /></a>
-  <a href="https://github.com/Shubham-dev-stack?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Shubham-dev-stack?style=for-the-badge&logo=apachespark&label=Stars&color=38BDF8&labelColor=161B22" alt="Stars" /></a>
+  <a href="https://github.com/Shubham-dev-stack?tab=followers"><img src="https://img.shields.io/github/followers/Shubham-dev-stack?style=for-the-badge&logo=github&label=Followers&color=38BDF8" alt="Followers" /></a>
+  <a href="https://github.com/Shubham-dev-stack?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Shubham-dev-stack?style=for-the-badge&logo=github&label=Stars&color=38BDF8" alt="Stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=Shubham-dev-stack&style=for-the-badge&color=38bdf8" alt="Profile Views" />
 </p>
 
@@ -34,7 +34,7 @@
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="assets/avatar.jpg" width="165" style="border-radius: 50%;" alt="Shubham Kumar" />
+<img src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/main/assets/avatar.jpg" width="165" style="border-radius: 50%;" alt="Shubham Kumar" />
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ const Shubham = {
         runtimes: ["Docker Sandboxes", "Subprocess / IPC", "Server-Sent Events (SSE)"],
         ai_ml: ["PyTorch", "Hugging Face", "LoRA / PEFT", "Scikit-Learn"],
         backend: ["FastAPI", "Node.js", "BullMQ", "Redis"],
-        security: ["Egress Filtering", "Threat Modeling", "Wireshark", "OWASP Top 10"]
+        security: ["Egress Boundaries", "Threat Modeling", "Wireshark", "OWASP Top 10"]
     },
     currentFocus: "Engineering zero-leakage LLM agent execution boundaries",
     motto: "Smallest clean change that completely solves the problem."
@@ -79,11 +79,7 @@ const Shubham = {
 <h2 align="center">🚀 Featured Systems &amp; Projects</h2>
 
 ### 🤖 [Kairo — Secure Autonomous AI Coding Agent](https://github.com/Shubham-dev-stack)
-<p>
-  <img src="https://img.shields.io/badge/Security-Zero_Trust_Docker-6366F1?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Latency-Sub_15ms_Proxy-0EA5E9?style=flat-square" alt="Proxy" />
-  <img src="https://img.shields.io/badge/Queue-BullMQ_Redis-DC2626?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-</p>
+> **Security:** `Zero-Trust Docker Sandbox` &nbsp;|&nbsp; **Latency:** `Sub-15ms Host Proxy` &nbsp;|&nbsp; **Queue:** `BullMQ & Redis`
 
 - Distributed autonomous AI software engineering platform executing complex multi-file codebase tasks.
 - Implements **ephemeral per-user Docker sandbox containers** to safely isolate untrusted shell commands and code modifications.
@@ -94,11 +90,7 @@ const Shubham = {
 <br/>
 
 ### 🛡️ [CipherScope — Predictive Attack Intelligence](https://github.com/Shubham-dev-stack)
-<p>
-  <img src="https://img.shields.io/badge/Domain-Threat_Intelligence-F43F5E?style=flat-square" alt="Intel" />
-  <img src="https://img.shields.io/badge/ML-Anomaly_Detection-3B82F6?style=flat-square" alt="ML" />
-  <img src="https://img.shields.io/badge/Telemetry-Network_PCAP-10B981?style=flat-square" alt="PCAP" />
-</p>
+> **Domain:** `Threat Intelligence` &nbsp;|&nbsp; **ML:** `Unsupervised Anomaly Detection` &nbsp;|&nbsp; **Telemetry:** `Network PCAP Analysis`
 
 - Predictive threat intelligence pipeline analyzing raw network traffic telemetry and server access logs.
 - Applies **unsupervised anomaly detection** to identify unauthorized payload execution and lateral movement patterns.
@@ -109,10 +101,7 @@ const Shubham = {
 <br/>
 
 ### 🛰️ [AeroGrid OS — Real-Time Spatial Mission Control](https://github.com/Shubham-dev-stack)
-<p>
-  <img src="https://img.shields.io/badge/Render-60FPS_WebGL-A855F7?style=flat-square&logo=three.js&logoColor=white" alt="WebGL" />
-  <img src="https://img.shields.io/badge/Telemetry-10_Hz_Stream-10B981?style=flat-square" alt="Telemetry" />
-</p>
+> **Visualization:** `60FPS Three.js / WebGL` &nbsp;|&nbsp; **Streaming:** `10 Hz Low-Latency Telemetry`
 
 - High-throughput 3D spatial mission control platform for autonomous drone swarms and satellite constellations.
 - Features a **60FPS Three.js / WebGL visualization viewport** mapping multi-agent spatial trajectories.
@@ -122,10 +111,7 @@ const Shubham = {
 <br/>
 
 ### 🔬 [Open Source Systems &amp; AgriPack AI](https://github.com/Shubham-dev-stack)
-<p>
-  <img src="https://img.shields.io/badge/SIH_2026-91.4%25_Accuracy-F59E0B?style=flat-square" alt="SIH" />
-  <img src="https://img.shields.io/badge/Systems-CLI_Architecture-10B981?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-</p>
+> **SIH 2026:** `91.4% Validation Accuracy` &nbsp;|&nbsp; **Systems:** `Windows CRT & POSIX CI Stability`
 
 - **AgriPack AI (SIH 2026):** Deep learning multi-output regression models predicting food-packaging degradation curves with **91.4% validation accuracy**, served via asynchronous REST endpoints.
 - **Open Source Systems:** Production contributor to LLM toolkits (5 merged PRs) across Windows CRT command quoting, airgap validation, and multi-OS CI stabilization.
