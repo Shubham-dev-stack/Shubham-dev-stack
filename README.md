@@ -142,7 +142,7 @@ const Shubham = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham-dev-stack&theme=synthwave" alt="GitHub Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham-dev-stack&theme=synthwave" alt="GitHub Stats" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham-dev-stack&theme=synthwave" alt="Top Languages" width="49%" />
 </p>
 
