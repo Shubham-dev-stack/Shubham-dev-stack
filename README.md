@@ -2,16 +2,16 @@
   <img src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/main/assets/header-dark.png" alt="Shubham Kumar Header Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey there, I'm <span style="color:#38BDF8;">Shubham Kumar</span> 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#EF93C4;">Shubham Kumar</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+%26+Autonomous+Agents+Engineer;Defensive+Cybersecurity+%26+Runtime+Sandboxing;Open+Source+Contributor+%C2%B7+5+Merged+PRs;Low-Level+Systems+%C2%B7+Docker+%C2%B7+Linux+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F8BBD0&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+%26+Autonomous+Agents+Engineer;Defensive+Cybersecurity+%26+Runtime+Sandboxing;Open+Source+Contributor+%C2%B7+5+Merged+PRs;Low-Level+Systems+%C2%B7+Docker+%C2%B7+Linux+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Shubham-dev-stack"><img src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/main/assets/badge-opensource.svg" alt="Open Source Contributor" /></a>
   <a href="https://github.com/Shubham-dev-stack"><img src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/main/assets/badge-domain.svg" alt="Domain Focus" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Shubham-dev-stack&style=for-the-badge&color=38bdf8" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shubham-dev-stack&style=for-the-badge&color=EF93C4" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ const Shubham = {
 <h2 align="center">🚀 Featured Systems &amp; Projects</h2>
 
 ### 🤖 [Kairo — Secure Autonomous AI Coding Agent](https://github.com/Shubham-dev-stack)
-> **Security:** `Zero-Trust Docker Sandbox` &nbsp;|&nbsp; **Latency:** `Sub-15ms Host Proxy` &nbsp;|&nbsp; **Queue:** `BullMQ & Redis`
+> <span style="color:#EF93C4;">**Security:**</span> `Zero-Trust Docker Sandbox` &nbsp;|&nbsp; <span style="color:#EF93C4;">**Latency:**</span> `Sub-15ms Host Proxy` &nbsp;|&nbsp; <span style="color:#EF93C4;">**Queue:**</span> `BullMQ & Redis`
 
 - Distributed autonomous AI software engineering platform executing complex multi-file codebase tasks.
 - Implements **ephemeral per-user Docker sandbox containers** to safely isolate untrusted shell commands and code modifications.
@@ -94,7 +94,7 @@ const Shubham = {
 <br/>
 
 ### 🛡️ [CipherScope — Predictive Attack Intelligence](https://github.com/Shubham-dev-stack)
-> **Domain:** `Threat Intelligence` &nbsp;|&nbsp; **ML:** `Unsupervised Anomaly Detection` &nbsp;|&nbsp; **Telemetry:** `Network PCAP Analysis`
+> <span style="color:#EF93C4;">**Domain:**</span> `Threat Intelligence` &nbsp;|&nbsp; <span style="color:#EF93C4;">**ML:**</span> `Unsupervised Anomaly Detection` &nbsp;|&nbsp; <span style="color:#EF93C4;">**Telemetry:**</span> `Network PCAP Analysis`
 
 - Predictive threat intelligence pipeline analyzing raw network traffic telemetry and server access logs.
 - Applies **unsupervised anomaly detection** to identify unauthorized payload execution and lateral movement patterns.
@@ -105,7 +105,7 @@ const Shubham = {
 <br/>
 
 ### 🛰️ [AeroGrid OS — Real-Time Spatial Mission Control](https://github.com/Shubham-dev-stack)
-> **Visualization:** `60FPS Three.js / WebGL` &nbsp;|&nbsp; **Streaming:** `10 Hz Low-Latency Telemetry`
+> <span style="color:#EF93C4;">**Visualization:**</span> `60FPS Three.js / WebGL` &nbsp;|&nbsp; <span style="color:#EF93C4;">**Streaming:**</span> `10 Hz Low-Latency Telemetry`
 
 - High-throughput 3D spatial mission control platform for autonomous drone swarms and satellite constellations.
 - Features a **60FPS Three.js / WebGL visualization viewport** mapping multi-agent spatial trajectories.
@@ -115,7 +115,7 @@ const Shubham = {
 <br/>
 
 ### 🔬 [Open Source Systems &amp; AgriPack AI](https://github.com/Shubham-dev-stack)
-> **SIH 2026:** `91.4% Validation Accuracy` &nbsp;|&nbsp; **Systems:** `Windows CRT & POSIX CI Stability`
+> <span style="color:#EF93C4;">**SIH 2026:**</span> `91.4% Validation Accuracy` &nbsp;|&nbsp; <span style="color:#EF93C4;">**Systems:**</span> `Windows CRT & POSIX CI Stability`
 
 - **AgriPack AI (SIH 2026):** Deep learning multi-output regression models predicting food-packaging degradation curves with **91.4% validation accuracy**, served via asynchronous REST endpoints.
 - **Open Source Systems:** Production contributor to LLM toolkits (5 merged PRs) across Windows CRT command quoting, airgap validation, and multi-OS CI stabilization.
@@ -138,16 +138,16 @@ const Shubham = {
 <h2 align="center">📈 GitHub Live Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shubham-dev-stack&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shubham-dev-stack&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham-dev-stack&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham-dev-stack&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham-dev-stack&theme=synthwave" alt="GitHub Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham-dev-stack&theme=synthwave" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Designed &amp; Maintained by <b>Shubham Kumar</b> · AI Systems Engineering &amp; Defensive Cybersecurity</sub>
+  <sub>Designed &amp; Maintained by <b style="color:#EF93C4;">Shubham Kumar</b> · AI Systems Engineering &amp; Defensive Cybersecurity</sub>
 </p>
