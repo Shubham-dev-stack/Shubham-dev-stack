@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shubham-dev-stack"><img src="https://img.shields.io/badge/Open_Source-5_Merged_PRs-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" /></a>
-  <a href="https://github.com/Shubham-dev-stack"><img src="https://img.shields.io/badge/Domain-AI_Systems_%26_Security-38BDF8?style=for-the-badge&logo=docker&logoColor=white" alt="Domain Focus" /></a>
+  <a href="https://github.com/Shubham-dev-stack"><img src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/main/assets/badge-opensource.svg" alt="Open Source Contributor" /></a>
+  <a href="https://github.com/Shubham-dev-stack"><img src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/main/assets/badge-domain.svg" alt="Domain Focus" /></a>
   <img src="https://komarev.com/ghpvc/?username=Shubham-dev-stack&style=for-the-badge&color=38bdf8" alt="Profile Views" />
 </p>
 
