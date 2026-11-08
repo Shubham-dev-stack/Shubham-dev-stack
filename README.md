@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shubham-dev-stack/Shubham-dev-stack/main/assets/header-dark.png" alt="Shubham Kumar Header Banner" width="100%" />
+</p>
+
 <h1 align="center">Hey there, I'm <span style="color:#38BDF8;">Shubham Kumar</span> 👋</h1>
 
 <p align="center">
