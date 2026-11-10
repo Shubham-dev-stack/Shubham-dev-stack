@@ -31,7 +31,7 @@
 
 - 🚀 **AI Systems & Autonomous Agents:** Building deterministic agent execution platforms, tool-calling pipelines, and evaluation harnesses.
 - 🛡️ **Zero-Trust Sandboxing:** Isolating untrusted code execution inside ephemeral Docker containers with token-gated host-side proxies.
-- ⚡ **Open Source Engineering:** Production contributor to developer toolkits (**5 Merged PRs on `Soup`**, 190 XP) across cross-platform Win32/POSIX portability, terminal rendering, and CI stability.
+- ⚡ **Open Source Engineering:** Production contributor to `Soup` across cross-platform Win32/POSIX portability, terminal rendering, and CI stability.
 - 🎯 **Current Focus:** Sub-15ms streaming proxy relays, egress boundary firewalls, and defense against model supply-chain attacks.
 - 🎓 **Education:** Bachelor of Computer Applications (BCA) · 2nd Year · Indira Gandhi National Open University (IGNOU), New Delhi.
 
@@ -118,7 +118,7 @@ const Shubham = {
 > <span style="color:#EF93C4;">**SIH 2026:**</span> `91.4% Validation Accuracy` &nbsp;|&nbsp; <span style="color:#EF93C4;">**Systems:**</span> `Windows CRT & POSIX CI Stability`
 
 - **AgriPack AI (SIH 2026):** Deep learning multi-output regression models predicting food-packaging degradation curves with **91.4% validation accuracy**, served via asynchronous REST endpoints.
-- **Open Source Systems:** Production contributor to LLM toolkits (5 merged PRs) across Windows CRT command quoting, airgap validation, and multi-OS CI stabilization.
+- **Open Source Systems:** Production contributor to LLM toolkits across Windows CRT command quoting, airgap validation, and multi-OS CI stabilization.
 - **Stack:** `Python` · `PyTorch` · `Scikit-Learn` · `FastAPI` · `Subprocess & IPC`
 
 ---
