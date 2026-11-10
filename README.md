@@ -5,7 +5,7 @@
 <h1 align="center">Hey there, I'm <span style="color:#EF93C4;">Shubham Kumar</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F8BBD0&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+%26+Autonomous+Agents+Engineer;Defensive+Cybersecurity+%26+Runtime+Sandboxing;Open+Source+Contributor+%C2%B7+5+Merged+PRs;Low-Level+Systems+%C2%B7+Docker+%C2%B7+Linux+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F8BBD0&background=00000000&center=true&vCenter=true&width=800&lines=AI+Systems+%26+Autonomous+Agents+Engineer;Defensive+Cybersecurity+%26+Runtime+Sandboxing;Open+Source+Contributor;Low-Level+Systems+%C2%B7+Docker+%C2%B7+Linux+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
